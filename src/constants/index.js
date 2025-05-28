@@ -48,8 +48,8 @@ export const clientReviews = [
   },
   {
     id: 4,
-    name: 'Dr. Kishor Upla',
-    position: 'AI/ML Professor',
+    name: 'Aryan',
+    position: 'Student Researcher',
     img: 'assets/review4.png',
     review:
       'Shivansh’s Calorie Burnt Prediction project displayed a strong understanding of data preprocessing, model selection, and performance evaluation. What impressed me most was his commitment to interpreting results critically and tuning the model beyond just achieving high accuracy. He also documented the project clearly, which reflected a solid academic and practical approach to applying machine learning in real-world scenarios.',
